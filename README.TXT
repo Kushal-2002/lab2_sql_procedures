@@ -24,7 +24,7 @@ Course: CS6.302 - Software System Development
 - Q5: CALL LoopAllSubscribersHistory();
 
 ## Git Repository
-[👉 Paste your GitHub/GitLab repository link here 👈]
+https://github.com/Kushal-2002/lab2_sql_procedures
 
 ---
 Note: Each .sql file contains USE lab2db; and DROP PROCEDURE IF EXISTS statements for clean execution.
